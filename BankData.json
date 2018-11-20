@@ -1,0 +1,60 @@
+{
+  
+"Bank": [
+  {
+    "Bank_ID": "BRK_1",
+    "Bank_name": "Bank Rakyat",
+    "interestRate": "5.55% ",
+    "interestRateDescription":"Base Rate by 0.80%",
+    "description":"Loan for amount 500,000.00",
+    "amount": "500000.00",
+    "downPayment": "2855.00",
+    "currency": "MYR",
+    "year":"30"
+  },
+  {
+    "Bank_ID": "BIMB_1",
+    "Bank_name": "Bank Islam",
+    "interestRate": "5.40%",
+    "interestRateDescription":"Base Rate by 1.50%",
+    "description":"Loan for amount 500,000",
+    "amount": "500000",
+    "downPayment": "2808.00",
+    "currency": "MYR",
+    "year":"30"
+  },
+  {
+    "Bank_ID": "MYB_1",
+    "Bank_name": "MayBank ",
+    "interestRate": "4.55%",
+    "interestRateDescription":"Base Rate by 1.30%",
+    "description":"Loan for amount 500,000",
+    "amount": "500000",
+    "downPayment": "2548.00",
+    "currency": "MYR",
+    "year":"30"
+  },
+  {
+    "Bank_ID": "MYB_2",
+    "Bank_name": "MayBank Islamic",
+    "interestRate": "4.55%",
+    "interestRateDescription":"Base Rate by 1.30%",
+    "description":"Loan for amount 500,000",
+    "amount": "500000",
+    "downPayment": "2548.00",
+    "currency": "MYR",
+    "year":"30"
+  },
+  {
+    "Bank_ID": "MBSB_!",
+    "Bank_name": "MBSB Bank",
+    "interestRate": "4.56%",
+    "interestRateDescription":"Base Rate by 1.20%",
+    "description":"Loan for amount 500,000",
+    "amount": "500000",
+    "downPayment": "2569.00",
+    "currency": "MYR",
+    "year":"30"
+  }
+ ]
+ }
